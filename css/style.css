@@ -97,6 +97,10 @@ main h3 {
   min-height: 35vh;
 }
 
+#first-block button:hover {
+  cursor: pointer;
+}
+
 #circular-img {
   border-radius: 50%;
   margin-bottom: 10%;
